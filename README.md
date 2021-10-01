@@ -18,7 +18,7 @@ Input data included:
 - hasVaneRimIn: has inner rim for vane or not
 - hasVaneRimOut: has outer rim for vane or not
 
-Output dat included:
+Output data included:
 - Sm: Main plate stress (Mpa)
 - Ss: Side plate stress (Mpa)
 - Sv: Vane stress (Mpa)
