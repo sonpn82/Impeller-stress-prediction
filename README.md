@@ -19,6 +19,8 @@ Input data included:
 - hasVaneRimOut: has outer rim for vane or not
 
 Output data included:
+- Wt: Weight of impeller in kg
+- GD2: Inertial moment of impeller
 - Sm: Main plate stress (Mpa)
 - Ss: Side plate stress (Mpa)
 - Sv: Vane stress (Mpa)
