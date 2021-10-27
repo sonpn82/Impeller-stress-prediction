@@ -25,4 +25,5 @@ Output data included:
 - Ss: Side plate stress (Mpa)
 - Sv: Vane stress (Mpa)
 - Si: Middle plate stress (Mpa)
-- Frequency: Natural frequency of impeller (Hz) 
+- Frequency: Natural frequency of impeller at 1785 Rpm (Hz) 
+- Frequency0: Natural frequency of impeller at 0 Rpm. (Hz)
